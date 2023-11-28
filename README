@@ -27,18 +27,18 @@ Data Exploration:
     •	SkinThickness
     •	Insulin
     •	BMI
-2.	Visually explore these variables using histograms. Treat the missing values accordingly.
-3.	There are integer and float data type variables in this dataset. Create a count (frequency) plot describing the data types and the count of variables. 
-Data Exploration:
-4.	Check the balance of the data by plotting the count of outcomes by their value. Describe your findings and plan future course of action.
-5.	Create scatter charts between the pair of variables to understand the relationships. Describe your findings.
-6.	Perform correlation analysis. Visually explore it using a heat map
+  2.	Visually explore these variables using histograms. Treat the missing values accordingly.
+  3.	There are integer and float data type variables in this dataset. Create a count (frequency) plot describing the data types and the count of variables. 
+      Data Exploration:
+  4.	Check the balance of the data by plotting the count of outcomes by their value. Describe your findings and plan future course of action.
+  5.	Create scatter charts between the pair of variables to understand the relationships. Describe your findings.
+  6.	Perform correlation analysis. Visually explore it using a heat map
 
 Data Modeling:
-1.	Devise strategies for model building. It is important to decide the right validation framework. Express your thought process. 
-2.	Apply an appropriate classification algorithm to build a model.
-3.	Compare various models with the results from KNN algorithm.
-4.	Create a classification report by analyzing sensitivity, specificity, AUC (ROC curve), etc.
+  1.	Devise strategies for model building. It is important to decide the right validation framework. Express your thought process. 
+  2.	Apply an appropriate classification algorithm to build a model.
+  3.	Compare various models with the results from KNN algorithm.
+  4.	Create a classification report by analyzing sensitivity, specificity, AUC (ROC curve), etc.
 
 Data Reporting:
   5.	Create a dashboard in tableau by choosing appropriate chart types and metrics useful for the business. The dashboard must entail the following:
